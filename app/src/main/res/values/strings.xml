@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lianxi</string>
+    <string name="login">登陆界面</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="submit">登陆</string>
+    <string name="reset">取消</string>
+    <string name="timesubmit">确定</string>
+    <string name="Result">登陆结果</string>
+</resources>
